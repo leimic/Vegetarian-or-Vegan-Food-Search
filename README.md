@@ -4,8 +4,7 @@ URL to app:  https://michelle-l.shinyapps.io/STA141BVegYelpApp/
 
 ## About this App
 The purpose of this app is to help people find restaurants that serve vegetarian or vegan meals.
-It was made with the
-####[Yelp Fusion API] (https://www.yelp.com/developers/documentation/v3/).
+It was made with Yelp Fusion API (https://www.yelp.com/developers/documentation/v3/).
 
 Often times, when going to a restaurant that doesn't advertise itself as having vegetarian or vegan options, the only appropriate foods to order would be side dishes or a salad, which aren't really meals. This app uses the Yelp API to find restaurants that would serve actual meals for people with vegetarian or vegan diets.
 
