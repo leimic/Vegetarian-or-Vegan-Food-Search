@@ -1,5 +1,7 @@
 # STA141B-Final-Project
 
+URL to app:  https://michelle-l.shinyapps.io/STA141BVegYelpApp/
+
 ## About this App
 The purpose of this app is to help people find restaurants that serve vegetarian or vegan meals.
 It was made with the
