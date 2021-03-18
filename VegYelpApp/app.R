@@ -90,8 +90,9 @@ ui <- navbarPage(
           style = "margin-left:100px; margin-right:100px"
         ),
         br(),
-        p("Users can choose either vegetarian or vegan and then enter a location. 
-      For more information, they can select a business. 
+        p("Users can choose either vegetarian or vegan and then enter a", 
+          a("location.", href = "https://www.yelp.com/locations"), 
+      "For more information, they can select a business. 
       After selecting a business, users can view a map of where the business is located, the business hours,
       reviews with a word cloud of words often mentioned in the reviews, 
       what categories the business is in (what they're known for), 
